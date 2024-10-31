@@ -14,5 +14,6 @@
     "idf.portWin": "COM3",
     "idf.pythonBinPathWin": "c:\\DA\\esp32\\python_env\\idf5.2_py3.11_env\\Scripts\\python.exe",
     "idf.toolsPathWin": "c:\\DA\\esp32",
-    "idf.flashType": "UART"
+    "idf.flashType": "UART",
+    "C_Cpp.errorSquiggles": "disabled"
 }
